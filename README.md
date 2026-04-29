@@ -150,13 +150,7 @@ Using MoveIt, you can:
 
 ---
 
-## 📸 Simulation Preview
 
-(Add your screenshots in `images/` folder)
-
-```md
-![MoveIt Planning](images/moveit.png)
-![Robot Model](images/robot.png)
 ```
 <img width="192" height="138" alt="image" src="https://github.com/user-attachments/assets/d8636a3b-7706-4850-8759-e4188434b773" />
 
